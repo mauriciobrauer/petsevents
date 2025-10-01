@@ -14,7 +14,7 @@ const PORT = process.env.PORT || 3003;
 // Middleware
 app.use(cors({
   origin: process.env.NODE_ENV === 'production' 
-    ? ['https://pet-events-frontend.vercel.app'] 
+    ? ['https://petsevents.vercel.app'] 
     : ['http://localhost:3000', 'http://localhost:3001'],
   credentials: true
 }));
