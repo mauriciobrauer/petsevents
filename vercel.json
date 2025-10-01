@@ -14,6 +14,6 @@
     }
   ],
   "env": {
-    "VITE_API_BASE_URL": "https://pet-events-backend.vercel.app/api"
+    "VITE_API_BASE_URL": "https://petsevents-backend.vercel.app/api"
   }
 }
