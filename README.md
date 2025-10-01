@@ -196,3 +196,4 @@ Si tienes problemas o preguntas:
 ---
 
 ¡Disfruta organizando eventos para mascotas! 🐕🐱🐰# Force redeploy Wed Oct  1 11:13:29 CST 2025
+# Test deployment Wed Oct  1 11:25:50 CST 2025
